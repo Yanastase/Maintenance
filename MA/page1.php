@@ -17,7 +17,7 @@
     
     <p class="text-center"> plateforme de peer learning<br>epsi lille</p>
     <p class="text-center"> Korentin Humetz</p>
-    <a href=page2.php style="text-align:center">Upload de fichier</a>
+    <a href=page2.php><p style="text-align:center">Upload de fichier</a>
     <img src="img/img.jpg" class="rounded mx-auto d-block">
     
 
