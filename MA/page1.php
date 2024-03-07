@@ -14,8 +14,10 @@
 </head>
 <body style="background-color:rgb(47,79,79);">
 <div classname = boite>
-    <a href=page2.php class="text-center">Upload de fichier</a>
+    
     <p class="text-center"> plateforme de peer learning<br>epsi lille</p>
+    <p class="text-center"> Korentin Humetz</p>
+    <a href=page2.php style="text-align:center">Upload de fichier</a>
     <img src="img/img.jpg" class="rounded mx-auto d-block">
     
 
