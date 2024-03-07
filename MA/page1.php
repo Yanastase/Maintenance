@@ -17,7 +17,7 @@
 </head>
 <body  style="background-color:rgb(47,79,79);">
 
-    <div style="background-color: white;padding: 20px;display: inline-block;margin-left: auto;" >
+    <div style="background-image: linear-gradient(to top, #fff0 0%, #fff 100%);padding: 100px;display: inline-block;margin-left: auto;" >
     <p style="text-align:center"> EPSILON<br>epsi lille</p>
     <p style="text-align:center"> Korentin Humetz</p>
     <a href=page2.php ><p style="text-align:center">Upload de fichier</a>
