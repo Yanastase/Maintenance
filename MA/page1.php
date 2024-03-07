@@ -14,7 +14,7 @@
 </head>
 <body style="background-color:rgb(47,79,79);">
 <div classname = boite>
-    <h1 class="text-center">Upload de fichier</h1>
+    <a href=page2.php class="text-center">Upload de fichier</a>
     <p class="text-center"> plateforme de peer learning<br>epsi lille</p>
     <img src="img/img.jpg" class="rounded mx-auto d-block">
     
