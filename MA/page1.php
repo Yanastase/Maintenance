@@ -39,6 +39,7 @@
     <div  >
     <p style="text-align:center;color:red;"> EPSILON<br>epsi lille</p>
     <p style="text-align:center;color:red;"> Korentin Humetz</p>
+        <p>groupe:Theo Gandon, Hugo Hochard</p>
     <button class="btn btn-primary" onclick="window.location.href='page2.php'"><p style="text-align:center;">Upload de fichier</button>
     <br>
     <img src="img/img.jpg" style=" display: block; margin-left: auto; margin-right: auto; width: 50%;">
