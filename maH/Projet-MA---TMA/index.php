@@ -11,9 +11,11 @@
         <div class="epsilon">
             <h1>Epsilon</h1>
             <p>Plateforme de peer-learning Epsi Lille</p>
-            <img src="hugo.jpg" alt="hugo travers" />
-            <img src="corentinT.jpg" alt="Corentin tolisso"/>
-            <p>Hugo Hochart</p>
+            <table>
+            <tr>
+                <td><img src="hugo.jpg" alt="hugo travers" /></td>
+                <td><img src="corentinT.jpg" alt="Corentin tolisso"/></td>
+            </tr><p>Hugo Hochart</p>
             <p>Groupe : Hochart, Théo Duvel, Korentin </p>
             <p>16/20<p>
             <a href="forms.php">Upload your File !</a>
